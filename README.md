@@ -1,3 +1,3 @@
 # test-a
 
-Initial delta 1.
+Initial delta 2.
